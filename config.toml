@@ -1,0 +1,7 @@
+project_id = "your-project-ref"
+
+[functions.create-payment]
+verify_jwt = true
+
+[functions.smm-order]
+verify_jwt = true
